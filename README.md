@@ -1,4 +1,4 @@
-# Lioran Board 2 - Subathon Counter
+# Lioran Board 2 - Twitch Subathon Countdown
 
 ## Requirements
 [Lioran Board 2](https://obsproject.com/forum/resources/lioranboard-2-stream-deck-animator.862/)
